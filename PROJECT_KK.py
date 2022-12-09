@@ -16,7 +16,7 @@ with st.container():
         st.write("""<h3 style = "text-align: center;"><img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/11/clustering.png" width="120" height="100"><br> 
         Kelompok 4 <p>Kecerdasan Komputasional</p></h3>""",unsafe_allow_html=True), 
         ["Home", "Data", "Prepocessing", "Clustering"], 
-            icons=['house', 'file-earmark-font', 'bar-chart', 'gear', 'arrow-down-square', 'check2-square'], menu_icon="cast", default_index=1,
+            icons=['house', 'file-earmark-font', 'bar-chart', 'gear', 'arrow-down-square', 'check2-square'], menu_icon="cast", default_index=0,
             styles={
                 "container": {"padding": "0!important", "background-color": "#fafafa"},
                 "icon": {"color": "#33ff99", "font-size": "18px"}, 
